@@ -22,7 +22,7 @@ https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/
 
 # Analysis 1
 
-## Table 1: Percent distribution of demographic, socioeconomic, and health care factors among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=13,742)
+## Table 1: Percent distribution of demographic, socioeconomic, and health care factors among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=13742)
 ![table1](https://github.com/brown-mheal/nsfg_sun_agenor/blob/f64f6ab8871cc83ab125fdc8db9801124ea7d51c/agenor_table1.png)
 
 Note. MSA: Metropolitan Statistical Area, STI: sexually transmitted infection. All prevalence estimates account for the survey’s complex sampling design and were directly age-standardized using the 2010 U.S. Census and may not add to 100.0% due to rounding error.
@@ -33,5 +33,8 @@ Note. MSA: Metropolitan Statistical Area, STI: sexually transmitted infection. A
 
 ***In 2006-2010 and 2011-2013, STI testing was assessed by asking respondents, “In the past 12 months, have you received counseling for or been tested or treated for a sexually transmitted disease?” In 2013-2015 and 2015-2017, respondents were asked, “In the past 12 months, have you been tested for a sexually transmitted diseases
 
-## Table 2: Odds of receiving prenatal care among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=2,303)
+## Table 2: Odds of receiving prenatal care among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=2303)
 ![table2](https://github.com/brown-mheal/nsfg_sun_agenor/blob/8259f985715d8bca85d1f4a2811b6c949bcfc3be/agenor_table2.png)
+
+## Figure 1: Adjusted predicted probabilities of receiving prenatal care among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=2303)
+
