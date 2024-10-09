@@ -34,6 +34,7 @@ Note. MSA: Metropolitan Statistical Area, STI: sexually transmitted infection. A
 *** = In 2006-2010 and 2011-2013, STI testing was assessed by asking respondents, “In the past 12 months, have you received counseling for or been tested or treated for a sexually transmitted disease?” In 2013-2015 and 2015-2017, respondents were asked, “In the past 12 months, have you been tested for a sexually transmitted diseases
 
 ## Table 2: Distribution of receiving prenatal care among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=2,303)
+![table2](https://github.com/brown-mheal/nsfg_sun_agenor/blob/8259f985715d8bca85d1f4a2811b6c949bcfc3be/agenor_table2.png)
 
 ## Table 3: Odds of receiving prenatal care among sexual orientation identity and racial/ethnic subgroups of pregnant U.S. women aged 15-44 years (N=2,303)
 
